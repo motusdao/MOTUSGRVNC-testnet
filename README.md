@@ -1,0 +1,5 @@
+MotusDAO Governance Token: 
+0x85d1ad1b9e3b63e4cb85f4315ff8bfc1e580f4e2f174d45efae5bb30344e5265
+
+Scan:
+https://alfajores.celoscan.io/address/0xb80ca7962f1c28792a242200085fab43af53ce40
